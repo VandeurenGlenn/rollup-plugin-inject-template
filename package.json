@@ -8,6 +8,21 @@
   ],
   "repository": "https://github.com/VandeurenGlenn/rollup-plugin-inject-template.git",
   "author": "Glenn Vandeuren <vandeurenglenn@gmail.com>",
+  "keywords": [
+    "rollup-plugin",
+    "inject",
+    "template",
+    "html",
+    "element"
+  ],
+  "dependencies": {
+    "inject-template": "^1.0.1",
+    "rollup-pluginutils": "^2.0.1"
+  },
+  "devDependencies": {
+    "rollup-plugin-commonjs": "^8.0.2",
+    "rollup-plugin-node-resolve": "^2.1.1"
+  },
   "backed": {
     "bundles": [
       {
@@ -24,13 +39,5 @@
       }
     ]
   },
-  "license": "MIT",
-  "dependencies": {
-    "inject-template": "^1.0.1",
-    "rollup-pluginutils": "^2.0.1"
-  },
-  "devDependencies": {
-    "rollup-plugin-commonjs": "^8.0.2",
-    "rollup-plugin-node-resolve": "^2.1.1"
-  }
+  "license": "MIT"
 }

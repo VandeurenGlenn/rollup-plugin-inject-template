@@ -1,5 +1,5 @@
 /**
- * rollup-plugin-cleanup
+ * rollup-plugin-inject-template
  * @module
  */
 import { createFilter } from 'rollup-pluginutils';
