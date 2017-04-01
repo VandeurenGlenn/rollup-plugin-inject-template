@@ -29,6 +29,9 @@
         "src": "src/index.js",
         "dest": "index.js",
         "format": "cjs",
+        "external": [
+          "inject-template"
+        ],
         "plugins": {
           "node-resolve": {
             "jsnext": true,
