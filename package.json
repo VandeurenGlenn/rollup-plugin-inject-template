@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-inject-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Inject html templates as innerHTML",
   "main": "index.js",
   "files": [
