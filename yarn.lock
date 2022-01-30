@@ -97,9 +97,10 @@ glob-parent@^2.0.0:
   dependencies:
     is-glob "^2.0.0"
 
-inject-template@^1.0.1:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/inject-template/-/inject-template-1.0.2.tgz#ed295be7a41f2e191f0ece62eed2ace539ebcab9"
+inject-template@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/inject-template/-/inject-template-1.1.0.tgz#7ac5cf56c92daefb9591c877626fc98bfa173609"
+  integrity sha1-esXPVsktrvuVkch3Ym/Ji/oXNgk=
 
 is-buffer@^1.0.2:
   version "1.1.5"
