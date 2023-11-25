@@ -17,7 +17,7 @@
   ],
   "dependencies": {
     "inject-template": "^1.0.1",
-    "rollup-pluginutils": "^2.0.1"
+    "rollup-pluginutils": "^2.1.0"
   },
   "devDependencies": {
     "rollup-plugin-commonjs": "^8.0.2",
